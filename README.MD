@@ -5,7 +5,7 @@ Prints the approximate price of the symbol specified to the terminal.
 
 ## Instructions.
 1. Clone the repository<br>
-`git clone https://github.com/musoto96/Bitmex-Cryptocurrency-Price-Widget-LINUX-.git`
+`git clone https://github.com/musoto96/Bitmex-Price-Widget-LINUX.git`
 2. copy `crypto_widget.sh` to `~/bin`
     1. Check for executable bit in `crypto_widget.sh`<br>
     `ls -lh crypto_widget.sh`
